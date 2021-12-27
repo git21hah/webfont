@@ -6,7 +6,7 @@
 
 Generator of fonts from SVG icons.
 
-## Features
+## Features [hhhhhhhhhhhhhhhhhh] 
 
 - Supported font formats: `WOFF2`, `WOFF`, `EOT`, `TTF` and `SVG`;
 - Support config files: use a `JavaScript`, `JSON` or `YAML` file to specify configuration information for an entire directory and all of its subdirectories;
